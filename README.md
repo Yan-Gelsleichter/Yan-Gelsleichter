@@ -10,7 +10,7 @@
 <br><br>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yancienciasagricolas@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ramon-rodrigues-gelsleichter-67aa2b1b0/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072789586920)
+[![Facebook](https://img.shields.io/badge/-Facebook-orange?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072789586920)
 <br><br>
 
 ### 🛠 &nbsp;Tech Stack
