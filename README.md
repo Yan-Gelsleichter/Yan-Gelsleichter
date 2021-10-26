@@ -25,9 +25,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <br><br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yan-Gelsleichter&show_icons=true" alt="Yan-Gelsleichter"/>
-</p>
+<div align="center">
+
+![Yan-Gelsleichter github stats](https://github-readme-stats.vercel.app/api?username=Yan-Gelsleichter&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
+
+</div>
+
 <!---
 Yan-Gelsleichter/Yan-Gelsleichter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
