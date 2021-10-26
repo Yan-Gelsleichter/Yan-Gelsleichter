@@ -25,7 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <br><br>
-<div align="center">
+### ⚙️ &nbsp;GitHub Analytics
+<div align="left">
 
 ![Yan-Gelsleichter github stats](https://github-readme-stats.vercel.app/api?username=Yan-Gelsleichter&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
 
