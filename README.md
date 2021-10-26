@@ -1,16 +1,18 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m Yan Gelsleichter</h1>
 <h3 align="center">👋 A Web Developer starting programming 👋</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yan-Gelsleichter" alt="Yan-Gelsleichter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yan-Gelsleichter&color=yellow" alt="Yan-Gelsleichter" /> </p>
 
 
 - 👀 Graduated in Degree in Agricultural Sciences, and postgraduate in Aquaculture Specialization.
 - 🌱 Currently engaged in development studies, in front-end technologies (React, JavaScript, Node, SQL, HTML and CSS), with the intention of taking on a challenge as a developer.
 - 📫 How to reach me yancienciasagricolas@gmail.com
+
 <br><br>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yancienciasagricolas@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ramon-rodrigues-gelsleichter-67aa2b1b0/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072789586920)
 <br><br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
