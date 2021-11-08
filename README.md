@@ -1,6 +1,6 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m Yan Gelsleichter</h1>
-<h3 align="center"A Web Developer starting programming</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yan-Gelsleichter&color=yellow" alt="Yan-Gelsleichter" /> </p>
+<h1>Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m Yan Gelsleichter</h1>
+<h3>A Web Developer starting programming</h3> 
+
 
 
 - 👀 Graduated in Degree in Agricultural Sciences, and postgraduate in Aquaculture Specialization.
