@@ -1,4 +1,4 @@
-<h1>Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m Yan Gelsleichter</h1>
+<h1>Hi dear, I’m Yan Gelsleichter <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3>A Web Developer starting programming</h3> 
 
 
@@ -26,11 +26,14 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="left">
+<br>
 
-![Yan-Gelsleichter github stats](https://github-readme-stats.vercel.app/api?username=Yan-Gelsleichter&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yan-Gelsleichter&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yan-Gelsleichter's Github Stats">
 
-</div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Gelsleichter&layout=compact&text_color=daf7dc&bg_color=151515)
+
 
 <!---
 Yan-Gelsleichter/Yan-Gelsleichter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
